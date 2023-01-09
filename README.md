@@ -4,6 +4,4 @@ I'm a software engineer based in Naples with a couple of years of experience in 
 - 🍕 I am a code quality enthusiast and a pizza lover. 
 - 📖 I also started to report some technical adventures on Medium.
 
-Follow me
-
 [Medium](https://medium.com/@m.delgiudice) | [LinkedIn](https://www.linkedin.com/in/marco-del-giudice/)
